@@ -1,0 +1,12 @@
+#!/bin/sh
+
+set -e
+
+echo "Simulating a Deployment\n"
+echo "pretending to do something for a few seconds"
+for i in $(seq 1 10)
+do
+    printf '.'
+    sleep 1
+done
+echo "\ndone."

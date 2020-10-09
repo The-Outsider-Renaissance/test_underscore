@@ -4,4 +4,4 @@ dependencies:
 deploy:
   max_commits: # Automatically deploy all commits, no matter how many.
   override:
-    - echo "Simulating a Deployment" && for i in $(seq 1 10); do echo "."; sleep 1; done &&  echo "done."
+    - bin/deployer bash -lc "bin/deploy"
