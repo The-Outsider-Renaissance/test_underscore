@@ -1,12 +1,22 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: System
 metadata:
-  name: test_underscore
-  # This is an extra long description
-  description: This is a test of Portal connectivity to Github
+  name: test-underscore
+  title: Test Underscore
+  description: Everything about testing underscores!
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
+  owner: guardians-of-the-galaxy
+  domain: testing
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-underscore-web
+  description: This is a fake web component.
+spec:
   type: service
   lifecycle: experimental
-  owner: team-c
+  system: test-underscore
+  owner: guardians-of-the-galaxy
