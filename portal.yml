@@ -7,6 +7,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     pagerduty.com/integration-key: f9bec7c325134e00c0af1e640eeaf6c8
+    sentry.io/project-slug: tempo
 spec:
   owner: guardians-of-the-galaxy
   domain: testing
@@ -16,6 +17,8 @@ kind: Component
 metadata:
   name: test-underscore-web
   description: This is a fake web component.
+  annotations:
+    sentry.io/project-slug: milano
 spec:
   type: service
   lifecycle: experimental
