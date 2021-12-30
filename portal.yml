@@ -20,6 +20,7 @@ metadata:
   description: This is a fake web component.
   annotations:
     sentry.io/project-slug: milano
+    jenkins.io/github-folder: powerhome/tempo
 spec:
   type: service
   lifecycle: experimental
