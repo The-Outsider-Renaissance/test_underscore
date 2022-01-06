@@ -8,6 +8,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     pagerduty.com/integration-key: f9bec7c325134e00c0af1e640eeaf6c8
     sentry.io/project-slug: tempo
+    github.com/project-slug: The-Outsider-Renaissance/test_underscore
     jenkins.io/github-folder: powerhome/tempo
 spec:
   owner: guardians-of-the-galaxy
@@ -20,6 +21,7 @@ metadata:
   description: This is a fake web component.
   annotations:
     sentry.io/project-slug: milano
+    github.com/project-slug: The-Outsider-Renaissance/test_underscore
     jenkins.io/github-folder: powerhome/tempo
 spec:
   type: service
