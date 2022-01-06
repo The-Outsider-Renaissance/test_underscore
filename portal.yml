@@ -12,7 +12,7 @@ metadata:
     jenkins.io/github-folder: powerhome/tempo
 spec:
   owner: guardians-of-the-galaxy
-  domain: testing
+  domain: testing-domain
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Component
@@ -27,4 +27,12 @@ spec:
   type: service
   lifecycle: experimental
   system: test-underscore
+  owner: guardians-of-the-galaxy
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: testing-domain
+  description: A testing domain
+spec:
   owner: guardians-of-the-galaxy
