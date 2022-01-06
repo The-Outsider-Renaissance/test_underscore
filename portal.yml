@@ -28,11 +28,3 @@ spec:
   lifecycle: experimental
   system: test-underscore
   owner: guardians-of-the-galaxy
----
-apiVersion: backstage.io/v1alpha1
-kind: Domain
-metadata:
-  name: testing-domain
-  description: A testing domain
-spec:
-  owner: guardians-of-the-galaxy
