@@ -3,7 +3,7 @@ site_description: 'Test application to test connectivity with Git.'
 nav:
   - "Home": "README.md"
   - "User Guide": "user-guide.md"
-  - '*include ./components/*/ Components': '!include mkdocs.yml'
+  - "Components": '*include ./components/*/mkdocs.yml'
 plugins:
   - techdocs-core
   - monorepo
