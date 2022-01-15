@@ -8,7 +8,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     pagerduty.com/integration-key: f9bec7c325134e00c0af1e640eeaf6c8
     sentry.io/project-slug: tempo
-    github.com/project-slug: The-Outsider-Renaissance/test_underscore
     jenkins.io/github-folder: powerhome/tempo
     newrelic.com/dashboard-guid: MTc2NTV8VklafERBU0hCT0FSRHw4NzY1OTg
 spec:
