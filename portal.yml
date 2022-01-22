@@ -11,6 +11,10 @@ metadata:
     jenkins.io/github-folder: powerhome/tempo
     newrelic.com/dashboard-guid: MTc2NTV8VklafERBU0hCT0FSRHw4NzY1OTg
     goharbor.io/repository-slug: milano/milano
+  links:
+    - url: https://dashboard.example.com
+      title: My Dashboard
+      icon: dashboard
 spec:
   owner: guardians-of-the-galaxy
   domain: testing-domain
