@@ -10,6 +10,7 @@ metadata:
     sentry.io/project-slug: tempo
     jenkins.io/github-folder: powerhome/tempo
     newrelic.com/dashboard-guid: MTc2NTV8VklafERBU0hCT0FSRHw4NzY1OTg
+    goharbor.io/repository-slug: milano/milano
 spec:
   owner: guardians-of-the-galaxy
   domain: testing-domain
