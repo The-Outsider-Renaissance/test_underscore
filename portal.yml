@@ -29,7 +29,7 @@ metadata:
     sentry.io/project-slug: milano
     github.com/project-slug: The-Outsider-Renaissance/test_underscore
     jenkins.io/github-folder: powerhome/tempo
-    goharbor.io/repository-slug: milano/milano
+    goharbor.io/repository-slug: test/portal
 spec:
   type: service
   lifecycle: experimental
