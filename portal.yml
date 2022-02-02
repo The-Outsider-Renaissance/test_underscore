@@ -11,7 +11,7 @@ metadata:
     sentry.io/project-slug: tempo
     jenkins.io/github-folder: powerhome/playbook
     newrelic.com/dashboard-guid: MTc2NTV8VklafERBU0hCT0FSRHw4NzY1OTg
-    goharbor.io/repository-slug: test/portal
+    goharbor.io/repository-slug: library/portal
   links:
     - url: https://dashboard.example.com
       title: My Dashboard
@@ -29,7 +29,7 @@ metadata:
     sentry.io/project-slug: milano
     github.com/project-slug: The-Outsider-Renaissance/test_underscore
     jenkins.io/github-folder: powerhome/nitro-web
-    goharbor.io/repository-slug: test/portal
+    goharbor.io/repository-slug: library/portal
 spec:
   type: service
   lifecycle: experimental
