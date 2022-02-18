@@ -12,6 +12,7 @@ metadata:
     jenkins.io/github-folder: powerhome/playbook
     newrelic.com/dashboard-guid: MTc2NTV8VklafERBU0hCT0FSRHw4NzY1OTg
     goharbor.io/repository-slug: test/portal
+    milano.powerapp.cloud/stack: the-outsider-renaissance/hello-world/production
   links:
     - url: https://dashboard.example.com
       title: My Dashboard
