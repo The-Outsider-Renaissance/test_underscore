@@ -15,7 +15,7 @@ metadata:
     milano.powerapp.cloud/stack: the-outsider-renaissance/hello-world/production
   links:
     - url: https://dashboard.example.com
-      title: My Dashboard
+      title: Cool Dashboard
       icon: dashboard
 spec:
   owner: guardians-of-the-galaxy
