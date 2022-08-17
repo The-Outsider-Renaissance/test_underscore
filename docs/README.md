@@ -2,4 +2,4 @@
 
 Important README stuff goes here
 
-![Sample](/docs/images/sample.png)
+![Sample](./images/sample.png)
