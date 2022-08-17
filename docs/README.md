@@ -1,5 +1,5 @@
 # Hello from the README
 
-Important README stuff
+Important README stuff goes here
 
-![Sample](/images/sample.png)
+![Sample](/docs/images/sample.png)
