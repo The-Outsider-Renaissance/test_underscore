@@ -4,6 +4,7 @@ dependencies:
 deploy:
   max_commits: # Automatically deploy all commits, no matter how many.
   override:
+    - ls
     - bin/deployer bash -lc "bin/deploy"
 
 tasks:
